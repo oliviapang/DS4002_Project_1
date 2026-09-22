@@ -2,7 +2,7 @@
 
 ## Software and Platform
 Softwares used: Google Collab and Python  
-Add-ons:   
+Add-ons: pandas, numpy, matplotlib.pyplot, seaborn  
 Platform: Windows
 ## Documentation Map
 

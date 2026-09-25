@@ -6,7 +6,7 @@
 
 ## Software and Platform
 Softwares used: Google Collab and Python  
-Add-ons: pandas, numpy, matplotlib.pyplot, seaborn  
+Add-ons: pandas, numpy, matplotlib.pyplot, seaborn, scikit-learn, joblib    
 Platform: Windows
 ## Documentation Map
 

@@ -1,0 +1,225 @@
+genre,rank,term,coefficient
+Adventure,1,tarzan,9.718
+Adventure,2,pitt,5.258
+Adventure,3,pimpernel,4.651
+Adventure,4,adventure,4.293
+Adventure,5,island,4.213
+Adventure,6,gold,3.942
+Adventure,7,dick,3.884
+Adventure,8,comet,3.815
+Alternate history,1,alvin,6.982
+Alternate history,2,alternate,5.428
+Alternate history,3,thursday,4.95
+Alternate history,4,timeline,4.677
+Alternate history,5,empire,4.538
+Alternate history,6,darcy,4.535
+Alternate history,7,history,4.51
+Alternate history,8,war,4.281
+Apocalyptic and post-apocalyptic fiction,1,survivors,4.579
+Apocalyptic and post-apocalyptic fiction,2,rayford,4.236
+Apocalyptic and post-apocalyptic fiction,3,carpathia,4.058
+Apocalyptic and post-apocalyptic fiction,4,bruce,3.862
+Apocalyptic and post-apocalyptic fiction,5,community,3.823
+Apocalyptic and post-apocalyptic fiction,6,nicolae,3.8
+Apocalyptic and post-apocalyptic fiction,7,fitzpatrick,3.501
+Apocalyptic and post-apocalyptic fiction,8,gc,3.488
+Autobiographical novel,1,novel,4.767
+Autobiographical novel,2,writer,4.551
+Autobiographical novel,3,life,4.497
+Autobiographical novel,4,marcel,3.838
+Autobiographical novel,5,esther,3.835
+Autobiographical novel,6,college,3.771
+Autobiographical novel,7,father,3.486
+Autobiographical novel,8,family,3.46
+Bildungsroman,1,aunt,4.877
+Bildungsroman,2,ged,4.401
+Bildungsroman,3,mother,4.08
+Bildungsroman,4,hashi,3.67
+Bildungsroman,5,meggie,3.611
+Bildungsroman,6,hall,3.538
+Bildungsroman,7,studies,3.524
+Bildungsroman,8,keller,3.421
+Children's literature,1,school,4.787
+Children's literature,2,nancy,4.774
+Children's literature,3,wolf,4.426
+Children's literature,4,poirot,4.376
+Children's literature,5,lone,4.242
+Children's literature,6,boy,4.176
+Children's literature,7,dolittle,4.092
+Children's literature,8,brown,3.86
+Crime Fiction,1,murder,8.468
+Crime Fiction,2,falco,6.982
+Crime Fiction,3,inspector,6.328
+Crime Fiction,4,crime,6.302
+Crime Fiction,5,detective,6.022
+Crime Fiction,6,poirot,5.585
+Crime Fiction,7,stephanie,5.383
+Crime Fiction,8,wexford,5.347
+Detective fiction,1,hardy,11.279
+Detective fiction,2,wolfe,9.733
+Detective fiction,3,rebus,7.495
+Detective fiction,4,archie,6.821
+Detective fiction,5,nancy,6.39
+Detective fiction,6,mystery,6.138
+Detective fiction,7,marple,5.872
+Detective fiction,8,boys,5.728
+Fantasy,1,magic,7.504
+Fantasy,2,magical,6.32
+Fantasy,3,dragon,5.696
+Fantasy,4,powers,4.182
+Fantasy,5,conan,3.969
+Fantasy,6,world,3.896
+Fantasy,7,city,3.848
+Fantasy,8,king,3.732
+Gothic fiction,1,olaf,4.947
+Gothic fiction,2,vampire,4.767
+Gothic fiction,3,room,4.116
+Gothic fiction,4,violet,4.036
+Gothic fiction,5,klaus,3.859
+Gothic fiction,6,sunny,3.814
+Gothic fiction,7,gaston,3.787
+Gothic fiction,8,lestat,3.742
+High fantasy,1,company,6.317
+High fantasy,2,wizard,5.187
+High fantasy,3,hayley,4.893
+High fantasy,4,arithon,4.533
+High fantasy,5,kahlan,4.475
+High fantasy,6,croaker,4.247
+High fantasy,7,karigan,4.015
+High fantasy,8,hara,3.931
+Historical fiction,1,historical,6.067
+Historical fiction,2,french,5.019
+Historical fiction,3,sharpe,4.77
+Historical fiction,4,flashman,4.768
+Historical fiction,5,novel,4.603
+Historical fiction,6,emersons,4.595
+Historical fiction,7,slave,4.587
+Historical fiction,8,william,4.487
+Horror,1,vampire,9.148
+Horror,2,vampires,7.154
+Horror,3,buffy,6.73
+Horror,4,angel,6.567
+Horror,5,ghost,5.573
+Horror,6,werewolf,5.535
+Horror,7,sunnydale,5.277
+Horror,8,horror,5.148
+Humor,1,fletch,3.864
+Humor,2,england,3.712
+Humor,3,bone,3.414
+Humor,4,brewster,3.409
+Humor,5,fone,3.398
+Humor,6,fact,3.327
+Humor,7,jody,3.284
+Humor,8,blandings,3.242
+Literary fiction,1,olaf,4.756
+Literary fiction,2,violet,4.541
+Literary fiction,3,fogg,4.309
+Literary fiction,4,novel,3.75
+Literary fiction,5,baudelaires,3.549
+Literary fiction,6,chapter,3.536
+Literary fiction,7,klaus,3.504
+Literary fiction,8,macbeth,3.472
+Mystery,1,murder,9.034
+Mystery,2,hardy,6.664
+Mystery,3,mystery,5.704
+Mystery,4,police,5.239
+Mystery,5,inspector,5.131
+Mystery,6,anita,4.43
+Mystery,7,wexford,4.371
+Mystery,8,case,4.225
+Romance novel,1,love,9.572
+Romance novel,2,married,6.668
+Romance novel,3,marriage,5.789
+Romance novel,4,romance,5.454
+Romance novel,5,savannah,4.221
+Romance novel,6,vampire,3.939
+Romance novel,7,relationship,3.719
+Romance novel,8,loveday,3.682
+Satire,1,widmerpool,5.275
+Satire,2,jenkins,4.643
+Satire,3,satire,4.351
+Satire,4,nick,4.145
+Satire,5,film,4.07
+Satire,6,pamela,3.595
+Satire,7,media,3.582
+Satire,8,bender,3.255
+Science Fiction,1,planet,10.241
+Science Fiction,2,earth,7.074
+Science Fiction,3,space,6.242
+Science Fiction,4,alien,5.528
+Science Fiction,5,future,5.337
+Science Fiction,6,jedi,5.319
+Science Fiction,7,human,5.253
+Science Fiction,8,doctor,5.004
+Spy fiction,1,bond,12.371
+Spy fiction,2,helm,10.581
+Spy fiction,3,agent,7.981
+Spy fiction,4,james,7.566
+Spy fiction,5,modesty,7.228
+Spy fiction,6,matt,5.482
+Spy fiction,7,intelligence,5.156
+Spy fiction,8,willie,5.117
+Steampunk,1,olaf,6.417
+Steampunk,2,klaus,4.839
+Steampunk,3,sunny,4.783
+Steampunk,4,baudelaires,4.777
+Steampunk,5,airship,4.754
+Steampunk,6,violet,4.37
+Steampunk,7,faust,4.051
+Steampunk,8,baudelaire,4.034
+Suspense,1,murder,5.733
+Suspense,2,wolfe,5.227
+Suspense,3,police,5.113
+Suspense,4,stephanie,4.905
+Suspense,5,rebus,4.319
+Suspense,6,body,4.048
+Suspense,7,reacher,3.988
+Suspense,8,wexford,3.83
+Techno-thriller,1,pitt,6.355
+Techno-thriller,2,schofield,4.928
+Techno-thriller,3,austin,4.757
+Techno-thriller,4,team,4.55
+Techno-thriller,5,cyborg,4.396
+Techno-thriller,6,gant,4.273
+Techno-thriller,7,submarine,4.246
+Techno-thriller,8,scientists,3.802
+Thriller,1,team,5.428
+Thriller,2,reacher,4.922
+Thriller,3,alex,4.503
+Thriller,4,police,4.209
+Thriller,5,nightmare,3.928
+Thriller,6,hannay,3.874
+Thriller,7,murders,3.654
+Thriller,8,hostages,3.629
+Utopian and dystopian fiction,1,government,7.086
+Utopian and dystopian fiction,2,society,6.576
+Utopian and dystopian fiction,3,community,4.639
+Utopian and dystopian fiction,4,protagonist,4.436
+Utopian and dystopian fiction,5,drug,4.069
+Utopian and dystopian fiction,6,population,3.988
+Utopian and dystopian fiction,7,taken,3.964
+Utopian and dystopian fiction,8,parable,3.924
+War novel,1,war,8.65
+War novel,2,german,5.627
+War novel,3,soldiers,4.705
+War novel,4,henry,4.157
+War novel,5,battle,4.076
+War novel,6,officers,4.049
+War novel,7,nazi,3.821
+War novel,8,allison,3.496
+Western,1,cattle,5.68
+Western,2,roland,4.587
+Western,3,susannah,3.772
+Western,4,ranch,3.733
+Western,5,homestead,3.617
+Western,6,laura,3.543
+Western,7,texas,3.513
+Western,8,jake,3.404
+Young adult literature,1,school,7.029
+Young adult literature,2,anastasia,5.391
+Young adult literature,3,darren,4.958
+Young adult literature,4,mia,4.697
+Young adult literature,5,mother,4.142
+Young adult literature,6,parents,4.127
+Young adult literature,7,girl,3.951
+Young adult literature,8,boy,3.951

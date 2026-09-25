@@ -1,0 +1,27 @@
+{
+  "n_books": 6609,
+  "n_train": 5287,
+  "n_test": 1322,
+  "n_genres": 28,
+  "avg_genres_per_book": 1.703,
+  "random_seed": 42,
+  "cv_folds": 5,
+  "prediction_threshold": 0.5,
+  "best_cv_hit_rate": 0.7416,
+  "best_params": {
+    "clf__estimator__C": "5.0",
+    "tfidf__max_features": "20000",
+    "tfidf__ngram_range": "(1, 1)"
+  },
+  "test_results": {
+    "hit_rate_top1": 0.7443,
+    "hit_rate_top3": 0.8812,
+    "exact_match_accuracy": 0.3971,
+    "f1_micro": 0.6478,
+    "f1_macro": 0.4776,
+    "f1_samples": 0.6428,
+    "hamming_loss": 0.0414
+  },
+  "baseline_hit_rate": 0.3321,
+  "baseline_genre": "Science Fiction"
+}

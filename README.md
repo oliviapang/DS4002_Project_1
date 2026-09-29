@@ -34,3 +34,8 @@ Platform: Windows
 17. Plot F1 scores and accuracy rates.
 18. Identify and plot model's top genre prediction vs. true genre. 
 19. Identify words that most strongly predict a genre and plot in a bar chart. 
+
+## References
+[1] D. Bamman and N. Smith. “New Alignment Methods for Discriminative Book Summarization,” Carnegie Mellon University. https://doi.org/10.48550/arXiv.1305.1319   
+[2] A. S. Fazira and E. W. Pamungkas, "Book genre classification based on titles and synopses using machine learning," in 2026 International Conference on Smart Computing, IoT, and Machine Learning (SIML), Surakarta, Indonesia, 2026, pp. 1–6, doi: 10.1109/SIML69834.2026.11621421.  
+[3] S. Nadis, "New book-sorting algorithm almost reaches perfection," Wired, Feb. 20, 2025. Available: https://www.wired.com/story/new-book-sorting-algorithm-almost-reaches-perfection/   

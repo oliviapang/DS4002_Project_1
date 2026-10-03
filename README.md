@@ -9,7 +9,7 @@ Softwares used: Google Collab and Python 3.13.15
 Add-ons: pandas 2.2.3, numpy 2.1.3, matplotlib.pyplot 3.10.0, seaborn 0.13.2, scikit-learn 1.6.1, joblib 1.6.0    
 Platform: Windows
 ## Documentation Map
-<img width="1067" height="1004" alt="Documentation Map" src="https://github.com/user-attachments/assets/d63e4792-510c-4072-bd9b-41373e578e12" />
+<img width="1056" height="1004" alt="Documentation Map (1)" src="https://github.com/user-attachments/assets/41857ac5-452f-401f-836f-b1bc53cdfa5f" />
 
 ## Instructions for Reproduction
 1. Follow link found in DATA/accessing_raw_data and download csv.  
